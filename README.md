@@ -1,3 +1,3 @@
-# Anfaal-exam-api
+# exam-api
 
-exam api made for anfaal foundation
+exam api made for Taking exams
